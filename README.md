@@ -1,36 +1,75 @@
 <h1 align="center">Hi, I'm Aiswarya C 👋</h1>
 
 <p align="center">
-ECE Student | Content Writer | Tech & Sustainability Enthusiast
+<b>Electronics & Communication Engineering Student</b><br>
+Content Writer | Tech Enthusiast | Sustainability Learner
+</p>
+
+<p align="center">
+Passionate about creating clear, engaging content and simplifying technical concepts.
 </p>
 
 ---
 
 ## 👩‍💻 About Me
-I am a second-year Electronics and Communication Engineering student with a strong interest in content writing, particularly in technical and event-based content.
+
+- 🎓 Second-year ECE student at GEC Palakkad  
+- ✍️ Content Lead at IEEE SB GEC Palakkad  
+- 🌱 Interested in Technical Writing, IoT & Embedded Systems  
+- 🚀 Actively building my portfolio and exploring opportunities  
 
 ---
 
 ## ✍️ Writing Portfolio
-- SustainX Workshop Experience  
-- Understanding IoT in Simple Words  
-- IEEE Event Write-up  
+
+- 🔗 [SustainX Workshop Experience](PASTE_LINK_HERE)  
+- 🔗 [Understanding IoT in Simple Terms](PASTE_LINK_HERE)  
+- 🔗 [IEEE Event Write-up](PASTE_LINK_HERE)  
 
 ---
 
 ## 🏆 Experience
-- Content Lead – IEEE SB GEC Palakkad  
-- Event Coordinator – Concordia 4.0  
-- Team Member – INVENTO’26  
+
+- **Content Lead** – IEEE SB GEC Palakkad  
+- **Event Coordinator** – Concordia 4.0  
+- **Team Member** – INVENTO’26  
 
 ---
 
 ## ⚙️ Projects
-- Eye Drowsiness Detection Goggles  
-- VHDL-Based Vending Machine Controller  
+
+- **Eye Drowsiness Detection Goggles**  
+  → A wearable system for real-time driver fatigue detection using alert mechanisms  
+
+- **VHDL-Based Vending Machine Controller (FSM)**  
+  → Simulated vending system with structured state transitions and payment handling  
 
 ---
 
-## 📫 Contact
-- Email: aiswarya872006@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/aiswarya-c-109794333
+## 💻 Skills
+
+- Content Writing  
+- VHDL & Digital Electronics  
+- Basic Web Development (HTML, CSS)  
+- Event Content & Documentation  
+
+---
+
+## 🚀 Goals
+
+- Build a strong technical content writing portfolio  
+- Gain internship experience in tech/content domains  
+- Explore IoT and embedded system applications  
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: aiswarya872006@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/aiswarya-c-109794333  
+
+---
+
+<p align="center">
+✨ Always learning | Always building ✨
+</p>
