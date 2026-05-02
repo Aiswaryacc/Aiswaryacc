@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Aiswarya C 👋</h1>
 
-<!--
-**Aiswaryacc/Aiswaryacc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+ECE Student | Content Writer | Tech & Sustainability Enthusiast
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+I am a second-year Electronics and Communication Engineering student with a strong interest in content writing, particularly in technical and event-based content.
+
+---
+
+## ✍️ Writing Portfolio
+- SustainX Workshop Experience  
+- Understanding IoT in Simple Words  
+- IEEE Event Write-up  
+
+---
+
+## 🏆 Experience
+- Content Lead – IEEE SB GEC Palakkad  
+- Event Coordinator – Concordia 4.0  
+- Team Member – INVENTO’26  
+
+---
+
+## ⚙️ Projects
+- Eye Drowsiness Detection Goggles  
+- VHDL-Based Vending Machine Controller  
+
+---
+
+## 📫 Contact
+- Email: aiswarya872006@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/aiswarya-c-109794333
