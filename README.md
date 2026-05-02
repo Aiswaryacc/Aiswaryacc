@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Aiswarya+C;B.Tech+ECE+@+GEC+Palakkad;IEEE+Content+Lead;Building+Projects+%26+Skills" />
+</p>
 <<h1 align="center">Hi, I'm Aiswarya C 👋</h1>
 
 <p align="center">
