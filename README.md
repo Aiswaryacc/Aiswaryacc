@@ -14,9 +14,8 @@ Beyond engineering, I actively contribute as **Content Lead at IEEE SB GEC Palak
 
 ## Fun Facts
 
-• I enjoy combining creativity with technology
-• I like participating in workshops and technical events
-• I enjoy learning through hands-on projects
-• Interested in sustainability and smart technology solutions
+• I enjoy combining creativity with technology  
+• I like participating in workshops and technical events  
+• I enjoy learning through hands-on projects  
+• Interested in sustainability and smart technology solutions  
 • Hobbies: content creation, designing ideas, and learning new tech
-
